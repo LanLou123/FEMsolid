@@ -1,5 +1,5 @@
 # FEMsolid
-Solid simulator using FEM
+Solid simulator using Finite Element method
 
 A jello falling to ground
 
